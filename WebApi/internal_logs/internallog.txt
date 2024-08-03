@@ -1,0 +1,97 @@
+2023-07-03 11:08:11.6378 Info Message Template Auto Format enabled
+2023-07-03 11:08:11.7787 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 11:08:11.8064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:15:36.0410 Info Message Template Auto Format enabled
+2023-07-03 12:15:36.2327 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:15:36.2848 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:17:49.6246 Info Message Template Auto Format enabled
+2023-07-03 12:17:49.8092 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:17:49.8624 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:19:56.2464 Info Message Template Auto Format enabled
+2023-07-03 12:19:56.3183 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:19:56.3436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:32:40.2757 Info Message Template Auto Format enabled
+2023-07-03 12:32:40.4002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:32:40.4487 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:34:50.3733 Info Message Template Auto Format enabled
+2023-07-03 12:34:50.5988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:34:50.6577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:35:02.4404 Info Message Template Auto Format enabled
+2023-07-03 12:35:02.5173 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 12:35:02.5438 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 12:37:49.0386 Info AppDomain Shutting down. LogFactory closing...
+2023-07-03 12:37:49.0633 Info LogFactory has been closed.
+2023-07-03 13:12:22.4511 Info Message Template Auto Format enabled
+2023-07-03 13:12:22.5208 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 13:12:22.5505 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 13:14:32.7559 Info AppDomain Shutting down. LogFactory closing...
+2023-07-03 13:14:32.7867 Info LogFactory has been closed.
+2023-07-03 13:14:36.7048 Info Message Template Auto Format enabled
+2023-07-03 13:14:36.8066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 13:14:36.8334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-03 13:28:45.1785 Info Message Template Auto Format enabled
+2023-07-03 13:28:45.2421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-03 13:28:45.2651 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 10:53:42.6451 Info Message Template Auto Format enabled
+2023-07-04 10:53:42.8869 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 10:53:42.9628 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 10:58:59.5857 Info Message Template Auto Format enabled
+2023-07-04 10:58:59.7939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 10:58:59.8575 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 11:45:47.0274 Info Message Template Auto Format enabled
+2023-07-04 11:45:47.2396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 11:45:47.3013 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 11:47:14.6601 Info AppDomain Shutting down. LogFactory closing...
+2023-07-04 11:47:14.6863 Info LogFactory has been closed.
+2023-07-04 11:51:02.0249 Info Message Template Auto Format enabled
+2023-07-04 11:51:02.2217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 11:51:02.2814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 11:52:11.8946 Info AppDomain Shutting down. LogFactory closing...
+2023-07-04 11:52:11.9240 Info LogFactory has been closed.
+2023-07-04 12:24:07.6751 Info Message Template Auto Format enabled
+2023-07-04 12:24:07.8512 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 12:24:07.9011 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 12:24:13.9816 Info AppDomain Shutting down. LogFactory closing...
+2023-07-04 12:24:14.0047 Info LogFactory has been closed.
+2023-07-04 12:24:21.7824 Info Message Template Auto Format enabled
+2023-07-04 12:24:21.9096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 12:24:21.9521 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 12:33:23.0314 Info Message Template Auto Format enabled
+2023-07-04 12:33:23.3125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 12:33:23.3726 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 15:13:01.3484 Info Message Template Auto Format enabled
+2023-07-04 15:13:01.4616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 15:13:01.4908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 23:09:02.2269 Info Message Template Auto Format enabled
+2023-07-04 23:09:02.2795 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 23:09:02.2970 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 23:13:00.5057 Info AppDomain Shutting down. LogFactory closing...
+2023-07-04 23:13:00.5057 Info LogFactory has been closed.
+2023-07-04 23:30:38.6576 Info Message Template Auto Format enabled
+2023-07-04 23:30:38.7450 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 23:30:38.7684 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-04 23:31:52.0155 Info Message Template Auto Format enabled
+2023-07-04 23:31:52.0630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 23:31:52.0804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-05 00:19:14.4057 Info AppDomain Shutting down. LogFactory closing...
+2023-07-05 00:19:14.4057 Info LogFactory has been closed.
+2023-07-05 00:19:21.8033 Info Message Template Auto Format enabled
+2023-07-05 00:19:21.8807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-05 00:19:21.9028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-05 01:10:07.8896 Info Message Template Auto Format enabled
+2023-07-05 01:10:08.0112 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-05 01:10:08.0583 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-06 13:46:28.5831 Info Message Template Auto Format enabled
+2023-07-06 13:46:28.7590 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-06 13:46:28.8213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-06 13:46:32.9008 Info Message Template Auto Format enabled
+2023-07-06 13:46:33.0284 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-06 13:46:33.0737 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-06 13:58:44.8404 Info Message Template Auto Format enabled
+2023-07-06 13:58:45.0236 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-06 13:58:45.0713 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-06 14:00:04.5663 Info Message Template Auto Format enabled
+2023-07-06 14:00:04.6333 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-06 14:00:04.6597 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ceren\source\repos\BtkAsp.CoreWebApi\bsStoreApp\WebApi\nlog.config
+2023-07-06 14:16:15.6873 Info AppDomain Shutting down. LogFactory closing...
+2023-07-06 14:16:15.7129 Info LogFactory has been closed.
